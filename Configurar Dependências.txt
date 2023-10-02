@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  wifi_iot: ^5.0.0
+  geolocator: ^8.1.0
